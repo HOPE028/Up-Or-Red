@@ -32,3 +32,5 @@ Assuming one successfully completes the game, they will be a given score equival
 	
 ## Gameplay (User Interface controls)
 When the game starts, the user must input some basic game settings to prepare the game. Once the game begins, a user must guess if the card they have to currently predict is higher or equal to 7 ('high') or lower ('low') than 7. They can also choose to guess the color of the card by saying 'red' or 'black'. If they predict the card right, they move on to the next card. They will carry on doing this until they have gone through all the cards. If they make a mistake at some point, however, the cards reset and it becomes the next players turn. 
+
+
