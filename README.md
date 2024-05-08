@@ -4,8 +4,7 @@
 
 ### What is the goal of the game:
 
-A player must traverse a map by guessing and remembering w
-hither each spot in the map is greater or smaller then 7 OR if it is black or red. By guessing correctly, they move on to the next card of the map until they have reached the end. If they make a mistake while progressing through the game, they must restart and try again. Depending on how many turns it took to finish the game, you are scored accordingly.
+A player must traverse a map by guessing and remembering whither each spot in the map is greater or smaller then 7 OR if it is black or red. By guessing correctly, they move on to the next card of the map until they have reached the end. If they make a mistake while progressing through the game, they must restart and try again. Depending on how many turns it took to finish the game, you are scored accordingly.
 
 ### How is the game set up:
 The game is set up on a 2D array of card objects. Using them, a map is built where the player traverses from the top left corner to the bottom right. 
